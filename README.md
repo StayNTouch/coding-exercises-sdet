@@ -2,7 +2,7 @@
 ## Cypress Automation Assignment
 # Objective
 
-Create a Cypress test that automates a hotel reservation flow on Expedia. The test must demonstrate proficiency in handling:
+Create a Cypress test with Typescript that automates a hotel reservation flow on Expedia. The test must demonstrate proficiency in handling:
 
 Calendar selection (choosing check-in and check-out dates)
 
