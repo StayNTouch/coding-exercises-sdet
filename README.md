@@ -56,6 +56,6 @@ Click Book Now.
 
 On the confirmation page, add at least 5 assertions of your choice.
 
-# Step 6: Submit your PR to this repository
+# Step 6: Submit your work 
 
-Create a separate branch for your work
+Once you have completed your Cypress test, export your project as a .zip file (make sure it includes all source files, test files, and necessary configuration). Submit this .zip file as your final work.
